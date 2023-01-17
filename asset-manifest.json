@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.280ad3b9.css",
-    "main.js": "/portfolio/static/js/main.eecd879c.js",
+    "main.js": "/portfolio/static/js/main.e70d4fdc.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio/static/js/787.aeca62f9.chunk.js",
-    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/kasa.png": "/portfolio/static/media/kasa.7babb45398f62f167f7a.png",
+    "static/media/kanap.png": "/portfolio/static/media/kanap.4cd160ac58cf5d1f46e1.png",
+    "static/media/ohmyfood.png": "/portfolio/static/media/ohmyfood.056628da24a1201b091b.png",
+    "static/media/chatApp.png": "/portfolio/static/media/chatApp.9799d7a5b6e8bf916489.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -16,11 +18,11 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.280ad3b9.css.map": "/portfolio/static/css/main.280ad3b9.css.map",
-    "main.eecd879c.js.map": "/portfolio/static/js/main.eecd879c.js.map",
+    "main.e70d4fdc.js.map": "/portfolio/static/js/main.e70d4fdc.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.280ad3b9.css",
-    "static/js/main.eecd879c.js"
+    "static/js/main.e70d4fdc.js"
   ]
 }
