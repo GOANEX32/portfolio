@@ -15,11 +15,11 @@ const Apropos = () => {
                     </div>
                     <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
                         <div className="sm:text-right text-4xl font-bold">
-                            <p>Salut, je suis Abdrahamne, ravie de te rancontre, jete un oeil autour.</p>
+                            <p>Salut, je suis Abdrahamane, ravi de te rencontrer, jette un oeil autour.</p>
                         </div>
                         <div>
-                            <p>J'aime cree des application qui ont une utilité 
-                                autour pour les gens, pour une perssone ou une entreprise,
+                            <p>J'ai obtenu mon diplôme en informatique et j'ai depuis travaillé sur plusieurs projets personnels 
+                                pour améliorer mes compétences en développement web, et j'ai toujours été passionné par les nouvelles technologies et les tendances du marché.
                             </p>
                         </div>
 

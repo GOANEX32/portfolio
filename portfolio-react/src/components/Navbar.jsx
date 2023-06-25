@@ -84,25 +84,29 @@ return(
     <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                <a className="flex justify-between items-center w-full text-gray-300" href="https://www.linkedin.com/feed/">
                     Linkedin <FaLinkedin size={30} />
                 </a>
             </li>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
-                <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/GOANEX32?tab=repositories">
                     Github <FaGithub size={30} />
                 </a>
             </li>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-                <a className="flex justify-between items-center w-full text-gray-300" href="/">
+           
+            
+        
+                <Link  to="contact"  smooth={true}  duration={500} className="flex justify-between items-center w-full text-gray-300" href="mailto:abdbansky@gmail.com?subject=Sujet du message">
                     Email <HiOutlineMail size={30} />
-                </a>
+                </Link>
+                
             </li>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                <Link  to="apropos"  smooth={true}  duration={500} className="flex justify-between items-center w-full text-gray-300" href="/">
                     Resumer <BsFillPersonLinesFill size={30} />
 
-                </a>
+                </Link>
             </li>
         </ul>
 
